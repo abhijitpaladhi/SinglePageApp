@@ -1,0 +1,111 @@
+.hero {
+    /* width: 100vw;
+    height: 45vw; */
+    background-image: url('/assets/img/background/banner-BG.jpg') !important;
+    /* background-size: cover; */
+    /* background-position: center center;   */
+    padding: 0.5em; 
+    /* position: absolute;  */
+
+    height: 100vh;
+    width: 100vw;
+    /* position: absolute; */
+    top: 0;
+    left: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .website-design {
+    height: 100vh;
+    width: 100vw;
+    padding: 0.5em;
+    /* position: absolute; */
+    top: 20;
+    left: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url('/assets/img/background/website-design-BG.jpg') !important;
+    
+    /* background-position: center center; */
+  }
+
+  .mobile-app {
+    height: 100vh;
+    width: 100vw;
+    padding: 0.5em;
+    /* position: absolute; */
+    top: 20;
+    left: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url('/assets/img/background/mobile-app-BG.jpg') !important;
+    
+    /* background-position: center center; */
+  }
+
+  .seo {
+    height: 100vh;
+    width: 100vw;
+    padding: 0.5em;
+    /* position: absolute; */
+    top: 20;
+    left: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url('/assets/img/background/SEO-BG.jpg') !important;
+    
+    /* background-position: center center; */
+  }
+  .e-commerce {
+    height: 100vh;
+    width: 100vw;
+    padding: 0.5em;
+    /* position: absolute; */
+    top: 20;
+    left: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url('/assets/img/background/e-commerce-BG.jpg') !important;
+    
+    /* background-position: center center; */
+  }
+  .sem {
+    height: 100vh;
+    width: 100vw;
+    padding: 0.5em;
+    /* position: absolute; */
+    top: 20;
+    left: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url('/assets/img/background/SEM-BG.jpg') !important;
+    
+    /* background-position: center center; */
+  }
+
+  /* :host {
+    display: flex;
+    height: 100%;
+    align-items: center;
+}
+
+md-card {
+    width:500px;
+    background: rgba(255,255,255,0.9);
+}
+
+md-card-header {
+    color: #3f51b5;
+}
+
+md-card-content {
+    padding: 8px;
+}
+
+.fullBg {
+    z-index:0;
+    position: fixed;
+    top: 0;
+    left: 0;
+} */
